@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mobliceoa/!svn/ver/791/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter
+END
+ReceiveNotificationYiYueAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/mobliceoa/!svn/ver/461/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/ReceiveNotificationYiYueAdapter.java
+END
+FileAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mobliceoa/!svn/ver/504/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/FileAdapter.java
+END
+OperationProcessAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mobliceoa/!svn/ver/433/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/OperationProcessAdapter.java
+END
+FileTransYifaAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mobliceoa/!svn/ver/587/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/FileTransYifaAdapter.java
+END
+PolicyReceiveAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mobliceoa/!svn/ver/293/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/PolicyReceiveAdapter.java
+END
+MyPagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mobliceoa/!svn/ver/791/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/MyPagerAdapter.java
+END
+FileTransImportantAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobliceoa/!svn/ver/581/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/FileTransImportantAdapter.java
+END
+FileTransYishouAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mobliceoa/!svn/ver/581/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/FileTransYishouAdapter.java
+END
+PolicyReceiveWeibanAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobliceoa/!svn/ver/137/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/PolicyReceiveWeibanAdapter.java
+END
+ReceiveNotificationDaiYueAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/mobliceoa/!svn/ver/461/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/ReceiveNotificationDaiYueAdapter.java
+END
+FileTransHolderListViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mobliceoa/!svn/ver/401/MobliceOA/src/com/zhjy/iot/mobile/oa/adapter/FileTransHolderListViewAdapter.java
+END

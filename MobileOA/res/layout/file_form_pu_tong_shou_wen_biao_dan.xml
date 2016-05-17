@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- 普通收文表单 -->
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btn"
+        android:background="#E1E1E1"
+        android:paddingBottom="10dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#D0D0D0"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:padding="7dp"
+                    android:text="6月份全区流动人口和出租房屋基础信息监测通报"
+                    android:textColor="#2B598C"
+                    android:textSize="19dp" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_tounit"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/white" >
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="7dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="end"
+                            android:maxEms="18"
+                            android:singleLine="true"
+                            android:text="来文单位："
+                            android:textColor="#2B598C"
+                            android:textSize="17sp" />
+
+                        <TextView
+                            android:id="@+id/tounit"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="end"
+                            android:maxEms="10"
+                            android:singleLine="true"
+                            android:text="无"
+                            android:textColor="@color/four_form_text_coloer"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_receivetime"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="7dp"
+                        android:singleLine="true"
+                        android:text="时间："
+                        android:textColor="#2B598C"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/receivetime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:textColor="@color/four_form_text_coloer"
+                        android:textSize="17sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/AppendDoc"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/white"
+                    android:text="附件"
+                    android:textColor="#EB8600"
+                    android:textSize="17sp" />
+
+                <LinearLayout
+                    android:id="@+id/nibanyijian"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:orientation="vertical"
+                    android:paddingBottom="5dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="7dp"
+                        android:text="拟办意见"
+                        android:textColor="#2B598C"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tv_opinion_1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="7dp"
+                        android:textColor="#4a4a4a"
+                        android:textSize="17sp" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" >
+
+                        <EditText
+                            android:id="@+id/edittext_opinion_1"
+                            style="@style/editText"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                        <Button
+                            android:id="@+id/sign_name_1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@id/edittext_opinion_1"
+                            android:layout_marginTop="5dp"
+                            android:background="@drawable/btn_four_form_selector_bg"
+                            android:text="签名"
+                            android:textSize="17sp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/white"
+                    android:orientation="vertical"
+                    android:paddingBottom="5dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="7dp"
+                        android:paddingTop="10dp"
+                        android:text="领导批示意见"
+                        android:textColor="#2B598C"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tv_opinion_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="7dp"
+                        android:textColor="#4a4a4a"
+                        android:textSize="17sp" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" >
+
+                        <EditText
+                            android:id="@+id/edittext_opinion_2"
+                            style="@style/editText"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                        <Button
+                            android:id="@+id/sign_name_2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@id/edittext_opinion_2"
+                            android:layout_marginTop="5dp"
+                            android:background="@drawable/btn_four_form_selector_bg"
+                            android:text="签名"
+                            android:textSize="17sp" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <!-- 办理意见 -->
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/white"
+                    android:paddingBottom="5dp" >
+
+                    <TextView
+                        android:id="@+id/ban_li_yi_jian"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="7dp"
+                        android:paddingTop="10dp"
+                        android:text="办理意见"
+                        android:textColor="#2B598C"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tv_opinion_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/ban_li_yi_jian"
+                        android:paddingLeft="7dp"
+                        android:textColor="#4a4a4a"
+                        android:textSize="17sp" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tv_opinion_3" >
+
+                        <EditText
+                            android:id="@+id/edittext_opinion_3"
+                            style="@style/editText"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" />
+
+                        <Button
+                            android:id="@+id/sign_name_3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@id/edittext_opinion_3"
+                            android:layout_marginTop="5dp"
+                            android:background="@drawable/btn_four_form_selector_bg"
+                            android:text="签名"
+                            android:textSize="17sp" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_below="@id/rl_3"
+                        android:paddingBottom="3dp"
+                        android:paddingRight="2dp"
+                        android:text="2016-03-22 17:12:20:00"
+                        android:textSize="12sp"
+                        android:visibility="gone" />
+                </RelativeLayout>
+
+                <!-- 附加两个意见:主管领导意见,科员意见 -->
+
+                <include layout="@layout/file_form_append" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#E1E1E1"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/operation_process_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/btn_four_form_selector_bg"
+                    android:text="查看办理过程" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

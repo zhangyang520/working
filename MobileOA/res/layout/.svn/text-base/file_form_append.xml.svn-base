@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!-- 主管领导批示意见 -->
+ <LinearLayout 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical"
+     >
+      <RelativeLayout
+		     android:layout_width="match_parent"
+		     android:layout_height="wrap_content"
+		     android:layout_marginTop="1dp"
+		     android:background="@color/white"
+		     android:paddingBottom="5dp">
+                    <TextView
+                        android:id="@+id/zhuguan_lingdao_yi_jian"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="7dp"
+                        android:paddingTop="10dp"
+                        android:text="主管领导批示意见"
+                        android:textColor="#2B598C"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tv_opinion_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/zhuguan_lingdao_yi_jian"
+                        android:paddingLeft="7dp"
+                        android:textColor="#4a4a4a"
+                        android:textSize="17sp" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tv_opinion_4" >
+
+                        <EditText
+                            android:id="@+id/edittext_opinion_4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/et_input_content_bg"
+                            android:editable="true"
+                            android:hint="请谁阅办"
+                            android:paddingLeft="5dp"
+                            android:paddingRight="5dp"
+                            android:singleLine="false"
+                            android:inputType="textMultiLine"
+                            android:scrollHorizontally="false"
+                            android:textColor="@color/black"
+                            android:textColorHint="#a7a7a7"
+                            android:textSize="17sp" />
+
+                        <Button
+                            android:id="@+id/sign_name_4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@id/edittext_opinion_4"
+                            android:layout_marginTop="5dp"
+                            android:background="@drawable/btn_four_form_selector_bg"
+                            android:text="签名"
+                            android:textSize="17sp" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_below="@id/rl_4"
+                        android:paddingBottom="3dp"
+                        android:paddingRight="2dp"
+                        android:text="2016-03-22 17:12:20:00"
+                        android:textSize="12sp"
+                        android:visibility="gone" />
+                </RelativeLayout>
+                
+                 
+                 <!-- 科员意见 -->
+                 <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/white"
+                    android:paddingBottom="5dp" >
+
+                    <TextView
+                        android:id="@+id/keyuan_yi_jian"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="7dp"
+                        android:paddingTop="10dp"
+                        android:text="科员意见"
+                        android:textColor="#2B598C"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tv_opinion_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/keyuan_yi_jian"
+                        android:paddingLeft="7dp"
+                        android:textColor="#4a4a4a"
+                        android:textSize="17sp" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/tv_opinion_5" >
+
+                        <EditText
+                            android:id="@+id/edittext_opinion_5"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:background="@drawable/et_input_content_bg"
+                            android:editable="true"
+                            android:hint="请谁阅办"
+                            android:paddingLeft="5dp"
+                            android:paddingRight="5dp"
+                            android:singleLine="false"
+                            android:inputType="textMultiLine"
+                            android:scrollHorizontally="false"
+                            android:textColor="@color/black"
+                            android:textColorHint="#a7a7a7"
+                            android:textSize="17sp" />
+
+                        <Button
+                            android:id="@+id/sign_name_5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="40dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_below="@id/edittext_opinion_5"
+                            android:layout_marginTop="5dp"
+                            android:background="@drawable/btn_four_form_selector_bg"
+                            android:text="签名"
+                            android:textSize="17sp" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_below="@id/rl_5"
+                        android:paddingBottom="3dp"
+                        android:paddingRight="2dp"
+                        android:text="2016-03-22 17:12:20:00"
+                        android:textSize="12sp"
+                        android:visibility="gone" />
+                </RelativeLayout>
+</LinearLayout>

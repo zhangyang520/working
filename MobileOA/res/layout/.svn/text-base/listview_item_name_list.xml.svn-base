@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+    
+    <TextView
+        android:text="刘德华" 
+        android:layout_marginLeft="15dp"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:layout_width="100dp"
+        android:ellipsize="middle"
+        android:singleLine="true"
+        android:layout_height="wrap_content"
+        android:id="@+id/listview_name"/>
+    
+    <ImageView 
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:clickable="true"
+        android:id="@+id/btn_name"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="30dp"
+        android:src="@drawable/btn_bg_backgroud"/>
+
+</LinearLayout>

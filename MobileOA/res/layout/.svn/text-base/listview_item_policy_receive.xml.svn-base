@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="14dp"
+    android:layout_marginRight="14dp"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/policy_receive_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="13dp"
+        android:ellipsize="end"
+        android:maxEms="18"
+        android:textColor="#2B598C"
+        android:singleLine="true"
+        android:text="北京市海淀区安全防火委员会关于印发《消防宣传“七进"
+        android:textSize="19sp" />
+
+    <RelativeLayout
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13dp"
+            android:layout_marginRight="13dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxEms="18"
+                android:singleLine="true"
+                android:textColor="#2B598C"
+                android:text="发送人："
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/from_danwei"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:textColor="@color/four_form_text_coloer"
+                android:maxEms="10"
+                android:singleLine="true"
+                android:text="无"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="19dp"
+            android:layout_alignParentRight="true"
+            android:scaleType="fitXY"
+            android:layout_marginRight="13dp"
+            android:src="@drawable/icon_cdpf_item_right_arr" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="3dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="13dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:textColor="#2B598C"
+            android:text="时间："
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:textColor="@color/four_form_text_coloer"
+            android:text="2016-03-22  16:16"
+            android:textSize="17sp" />
+    </LinearLayout>
+    
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="#4AADCA"/>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/tab_title_bg"
+        >
+        <LinearLayout 
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            
+            <TextView
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:text="待阅"
+                android:textSize="15sp"
+                android:id="@+id/tab_daiyue"
+                android:gravity="center"
+                android:textColor="@color/gry_black"
+                android:layout_weight="1" />
+            
+            
+             <TextView
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:text="已阅"
+                android:id="@+id/tab_yiyue"
+                android:textSize="15sp"
+                android:gravity="center"
+                android:textColor="@color/gry_black_press"
+                android:layout_weight="1" />
+            
+        </LinearLayout>
+        <View
+            android:layout_width="0dp"
+            android:id="@+id/indicate_line"
+            android:layout_height="3dp"
+            android:layout_alignBottom="@id/tab_layout"
+            android:background="@color/indicate_line_1" />
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

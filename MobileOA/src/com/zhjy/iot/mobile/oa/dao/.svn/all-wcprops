@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mobliceoa/!svn/ver/836/MobliceOA/src/com/zhjy/iot/mobile/oa/dao
+END
+PolicyReceDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mobliceoa/!svn/ver/698/MobliceOA/src/com/zhjy/iot/mobile/oa/dao/PolicyReceDao.java
+END
+SystemSettingDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mobliceoa/!svn/ver/252/MobliceOA/src/com/zhjy/iot/mobile/oa/dao/SystemSettingDao.java
+END
+NodeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mobliceoa/!svn/ver/782/MobliceOA/src/com/zhjy/iot/mobile/oa/dao/NodeDao.java
+END
+LoginUserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mobliceoa/!svn/ver/836/MobliceOA/src/com/zhjy/iot/mobile/oa/dao/LoginUserDao.java
+END
+FileTransDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mobliceoa/!svn/ver/581/MobliceOA/src/com/zhjy/iot/mobile/oa/dao/FileTransDao.java
+END

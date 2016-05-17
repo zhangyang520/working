@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp" >
+
+        <TextView
+            android:id="@+id/chushi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxEms="18"
+            android:singleLine="true"
+            android:text="处室："
+            android:textColor="#2B598C"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/nodeName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/chushi"
+            android:ellipsize="end"
+            android:maxEms="10"
+            android:singleLine="true"
+            android:text="办公室"
+            android:textColor="#4a4a4a"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp" >
+
+        <TextView
+            android:id="@+id/chushi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxEms="18"
+            android:singleLine="true"
+            android:text="办理阶段："
+            android:textColor="#2B598C"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/handleStage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/chushi"
+            android:ellipsize="end"
+            android:maxEms="10"
+            android:textColor="#4a4a4a"
+            android:singleLine="true"
+            android:text="收文登记"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp" >
+
+        <TextView
+            android:id="@+id/chushi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxEms="18"
+            android:singleLine="true"
+            android:text="办理人："
+            android:textColor="#2B598C"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/chushi"
+            android:ellipsize="end"
+            android:maxEms="10"
+            android:textColor="#4a4a4a"
+            android:singleLine="true"
+            android:text="付饶"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp" >
+
+        <TextView
+            android:id="@+id/chushi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxEms="18"
+            android:singleLine="true"
+            android:text="办结时间："
+            android:textColor="#2B598C"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/completion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/chushi"
+            android:ellipsize="end"
+            android:textColor="#4a4a4a"
+            android:maxEms="10"
+            android:singleLine="true"
+            android:text="2016-04-01  16：53"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp" >
+
+        <TextView
+            android:id="@+id/chushi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxEms="18"
+            android:singleLine="true"
+            android:text="接收时间："
+            android:textColor="#2B598C"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/receiptTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/chushi"
+            android:ellipsize="end"
+            android:maxEms="10"
+            android:textColor="#4a4a4a"
+            android:singleLine="true"
+            android:text="2016-04-01  16：53"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="#4AADCA" />
+
+</LinearLayout>

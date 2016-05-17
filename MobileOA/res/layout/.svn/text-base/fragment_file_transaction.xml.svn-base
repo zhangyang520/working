@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/tab_title_bg" >
+
+        <LinearLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/tab_yishou"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="已收文件"
+                android:textColor="@color/gry_black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tab_yifa"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="已发文件"
+                android:textColor="@color/gry_black_press"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tab_zhongyao"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="重要文件"
+                android:textColor="@color/gry_black_press"
+                android:textSize="15sp" />
+            
+            <TextView
+                android:id="@+id/tab_transfile"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="传文件"
+                android:textColor="@color/gry_black_press"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/indicate_line"
+            android:layout_width="0dp"
+            android:layout_height="3dp"
+            android:layout_alignBottom="@id/tab_layout"
+            android:background="@color/indicate_line_1" />
+    </RelativeLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

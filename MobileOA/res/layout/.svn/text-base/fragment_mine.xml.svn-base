@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEE"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="13dp"
+            android:src="@drawable/icon_mine_name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="7dp"
+            android:text="真实姓名："
+            android:textColor="@color/four_form_text_coloer"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/mine_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/four_form_text_coloer"
+            android:text="黄贤锋"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#EEEEEE" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white" >
+
+        <ImageButton
+            android:id="@+id/mine_password_imgbtn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null" />
+
+        <ImageView
+            android:id="@+id/icon_mine_pwd"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="13dp"
+            android:src="@drawable/icon_mine_password" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="19dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="13dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_cdpf_item_right_arr"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/icon_mine_pwd"
+            android:text="修改密码"
+            android:layout_marginLeft="7dp"
+            android:textColor="@color/four_form_text_coloer"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#EEEEEE" />
+    
+    
+        <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#EEEEEE" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white" >
+
+        <ImageButton
+            android:id="@+id/mine_sign_out_imgbtn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@null" />
+        
+        <ImageView
+            android:id="@+id/icon_mine_out_app"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="13dp"
+            android:src="@drawable/icon_mine_out" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="19dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="13dp"
+            android:background="@drawable/icon_cdpf_item_right_arr"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="7dp"
+            android:text="退出登录"
+            android:textColor="@color/four_form_text_coloer"
+            android:layout_toRightOf="@id/icon_mine_out_app"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</LinearLayout>

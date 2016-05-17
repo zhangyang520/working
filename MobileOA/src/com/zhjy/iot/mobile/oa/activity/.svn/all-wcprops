@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mobliceoa/!svn/ver/903/MobliceOA/src/com/zhjy/iot/mobile/oa/activity
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mobliceoa/!svn/ver/889/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/MainActivity.java
+END
+PolicyReceiveYiBanActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mobliceoa/!svn/ver/773/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/PolicyReceiveYiBanActivity.java
+END
+FileTransImportantActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mobliceoa/!svn/ver/773/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/FileTransImportantActivity.java
+END
+PolicyReceiveWeiBanActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mobliceoa/!svn/ver/773/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/PolicyReceiveWeiBanActivity.java
+END
+FileTransYishouActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mobliceoa/!svn/ver/773/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/FileTransYishouActivity.java
+END
+SplashActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mobliceoa/!svn/ver/760/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/SplashActivity.java
+END
+ReceiveNotificationDaiYueActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/mobliceoa/!svn/ver/773/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/ReceiveNotificationDaiYueActivity.java
+END
+OperationProcessActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobliceoa/!svn/ver/782/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/OperationProcessActivity.java
+END
+FileTransYifaActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mobliceoa/!svn/ver/773/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/FileTransYifaActivity.java
+END
+DownloadingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mobliceoa/!svn/ver/851/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/DownloadingActivity.java
+END
+SearchActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mobliceoa/!svn/ver/906/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/SearchActivity.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mobliceoa/!svn/ver/864/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/LoginActivity.java
+END
+ModifyPasswordActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mobliceoa/!svn/ver/642/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/ModifyPasswordActivity.java
+END
+LoadingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mobliceoa/!svn/ver/827/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/LoadingActivity.java
+END
+ReceiveNotificationYiYueActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/mobliceoa/!svn/ver/832/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/ReceiveNotificationYiYueActivity.java
+END
+MainPageActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mobliceoa/!svn/ver/903/MobliceOA/src/com/zhjy/iot/mobile/oa/activity/MainPageActivity.java
+END

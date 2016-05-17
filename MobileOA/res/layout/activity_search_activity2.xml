@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeee" >
+
+    <RelativeLayout
+        android:id="@+id/rl_anchor"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#4AADCA" >
+
+        <ImageButton
+            android:id="@+id/btn_back"
+            style="@style/TitleLeftBtn"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/backbutton"
+            android:contentDescription="@string/empty_space"
+             />
+
+        <!-- search box -->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_margin="5dp"
+            android:layout_toRightOf="@+id/btn_back" >
+
+            <EditText
+                android:id="@+id/et_search"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:background="@drawable/pic_edittext_bg"
+                android:inputType="text"
+                android:hint="请输入要查询内容"
+                android:paddingLeft="10dp"
+                android:textColor="#494949"
+                android:textSize="15sp" />
+
+            <ImageButton
+                android:id="@+id/btn_search"
+                android:layout_width="23dp"
+                android:layout_height="24dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="12dp"
+                android:background="@drawable/btn_search_selector"
+                android:contentDescription="@string/empty_space" />
+
+            <TextView
+                android:id="@+id/tv_line"
+                android:layout_width="0.5dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/btn_search"
+                android:background="#f4f4f4"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/btn_clear"
+                android:layout_width="21dp"
+                android:layout_height="21dp"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/tv_line"
+                android:background="@drawable/btn_search_clear"
+                android:contentDescription="@string/empty_space"
+                android:scaleType="fitXY"
+                android:visibility="invisible" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/search_ui_activity2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rl_anchor" >
+    </FrameLayout>
+
+</RelativeLayout>

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mobliceoa/!svn/ver/871/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol
+END
+FileTrans2PeopleProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobliceoa/!svn/ver/725/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTrans2PeopleProtocol.java
+END
+PolicyReceiveActivityProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/mobliceoa/!svn/ver/864/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/PolicyReceiveActivityProtocol.java
+END
+FileTransInteractProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobliceoa/!svn/ver/580/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTransInteractProtocol.java
+END
+FileTransSend2FileProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/mobliceoa/!svn/ver/825/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTransSend2FileProtocol.java
+END
+FileTransProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mobliceoa/!svn/ver/840/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTransProtocol.java
+END
+ReceiveNotificationProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/mobliceoa/!svn/ver/752/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/ReceiveNotificationProtocol.java
+END
+FileSendProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mobliceoa/!svn/ver/775/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileSendProtocol.java
+END
+PolicyReceProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mobliceoa/!svn/ver/847/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/PolicyReceProtocol.java
+END
+PolicyReceiveProcessActionProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/mobliceoa/!svn/ver/709/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/PolicyReceiveProcessActionProtocol.java
+END
+OperationProcessProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/mobliceoa/!svn/ver/783/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/OperationProcessProtocol.java
+END
+FileTransYiFaProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mobliceoa/!svn/ver/576/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTransYiFaProtocol.java
+END
+FileTransSendFileProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobliceoa/!svn/ver/820/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTransSendFileProtocol.java
+END
+FileTransActivityProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobliceoa/!svn/ver/854/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTransActivityProtocol.java
+END
+SynchronizeDataProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mobliceoa/!svn/ver/871/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/SynchronizeDataProtocol.java
+END
+ReceiveNotificationActivityProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/mobliceoa/!svn/ver/782/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/ReceiveNotificationActivityProtocol.java
+END
+LoginProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mobliceoa/!svn/ver/638/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/LoginProtocol.java
+END
+FileTransDeleteProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/mobliceoa/!svn/ver/589/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/FileTransDeleteProtocol.java
+END
+ModifyPasswordProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mobliceoa/!svn/ver/643/MobliceOA/src/com/zhjy/iot/mobile/oa/protocol/ModifyPasswordProtocol.java
+END

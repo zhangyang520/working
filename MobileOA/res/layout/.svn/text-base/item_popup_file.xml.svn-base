@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <CheckBox
+        android:id="@+id/cb"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/tree_selector"
+        android:button="@null" />
+
+    <TextView
+        android:id="@+id/fileName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_weight="1"
+        android:gravity="center|left"
+        android:padding="15dp"
+        android:text="扎你发送的减肥iOS的反思欧风街/nfeww发改委分割为复合物if顾问股份请我分为非业务发我发个无法工委erwerwerwerwerwerwerwerwerwerwerwuytutyuytutyutyuytuytuytutyuwebjfkwelgfvwevfkrlevgfiwegvufgpiweifugwegfiuwevfwefiguweioufgoweoigfewuiger"
+        android:textColor="@color/black" />
+
+</LinearLayout>

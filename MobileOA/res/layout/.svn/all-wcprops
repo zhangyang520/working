@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/mobliceoa/!svn/ver/905/MobliceOA/res/layout
+END
+file_form_pu_tong_shou_wen_biao_dan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mobliceoa/!svn/ver/882/MobliceOA/res/layout/file_form_pu_tong_shou_wen_biao_dan.xml
+END
+item_popup_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mobliceoa/!svn/ver/850/MobliceOA/res/layout/item_popup_file.xml
+END
+item_top.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/mobliceoa/!svn/ver/2/MobliceOA/res/layout/item_top.xml
+END
+fragment_policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mobliceoa/!svn/ver/858/MobliceOA/res/layout/fragment_policy.xml
+END
+pull_refresh_webview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mobliceoa/!svn/ver/36/MobliceOA/res/layout/pull_refresh_webview.xml
+END
+popup_file_append_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mobliceoa/!svn/ver/479/MobliceOA/res/layout/popup_file_append_content.xml
+END
+file_trans_important.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mobliceoa/!svn/ver/92/MobliceOA/res/layout/file_trans_important.xml
+END
+activity_login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mobliceoa/!svn/ver/515/MobliceOA/res/layout/activity_login.xml
+END
+file_trans_yi_shou.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mobliceoa/!svn/ver/72/MobliceOA/res/layout/file_trans_yi_shou.xml
+END
+policy_receive_yi_ban_details.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobliceoa/!svn/ver/173/MobliceOA/res/layout/policy_receive_yi_ban_details.xml
+END
+listview_item_shoujianren.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mobliceoa/!svn/ver/444/MobliceOA/res/layout/listview_item_shoujianren.xml
+END
+listview_item_file_trans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mobliceoa/!svn/ver/444/MobliceOA/res/layout/listview_item_file_trans.xml
+END
+activity_main_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mobliceoa/!svn/ver/896/MobliceOA/res/layout/activity_main_page.xml
+END
+item_array_adapter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mobliceoa/!svn/ver/248/MobliceOA/res/layout/item_array_adapter.xml
+END
+file_form_qu_ling_dao_pi_ban_dan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mobliceoa/!svn/ver/882/MobliceOA/res/layout/file_form_qu_ling_dao_pi_ban_dan.xml
+END
+file_trans_yi_fa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mobliceoa/!svn/ver/76/MobliceOA/res/layout/file_trans_yi_fa.xml
+END
+operation_process.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mobliceoa/!svn/ver/439/MobliceOA/res/layout/operation_process.xml
+END
+popup_is_file_trans_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mobliceoa/!svn/ver/544/MobliceOA/res/layout/popup_is_file_trans_content.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mobliceoa/!svn/ver/868/MobliceOA/res/layout/activity_main.xml
+END
+load_more.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mobliceoa/!svn/ver/2/MobliceOA/res/layout/load_more.xml
+END
+pull_to_refresh_header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mobliceoa/!svn/ver/36/MobliceOA/res/layout/pull_to_refresh_header.xml
+END
+listview_item_policy_receive.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mobliceoa/!svn/ver/848/MobliceOA/res/layout/listview_item_policy_receive.xml
+END
+file_form_wen_jian_pi_ban_dan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobliceoa/!svn/ver/882/MobliceOA/res/layout/file_form_wen_jian_pi_ban_dan.xml
+END
+fragment_file_transaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mobliceoa/!svn/ver/612/MobliceOA/res/layout/fragment_file_transaction.xml
+END
+file_form_file_trans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mobliceoa/!svn/ver/618/MobliceOA/res/layout/file_form_file_trans.xml
+END
+item_tree_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mobliceoa/!svn/ver/416/MobliceOA/res/layout/item_tree_list.xml
+END
+loadpage_loading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mobliceoa/!svn/ver/2/MobliceOA/res/layout/loadpage_loading.xml
+END
+fragment_mine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mobliceoa/!svn/ver/614/MobliceOA/res/layout/fragment_mine.xml
+END
+menutab1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mobliceoa/!svn/ver/501/MobliceOA/res/layout/menutab1.xml
+END
+loading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/mobliceoa/!svn/ver/482/MobliceOA/res/layout/loading.xml
+END
+menutab2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mobliceoa/!svn/ver/501/MobliceOA/res/layout/menutab2.xml
+END
+menutab3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mobliceoa/!svn/ver/501/MobliceOA/res/layout/menutab3.xml
+END
+menutab4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/mobliceoa/!svn/ver/501/MobliceOA/res/layout/menutab4.xml
+END
+listview_item_name_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mobliceoa/!svn/ver/795/MobliceOA/res/layout/listview_item_name_list.xml
+END
+activity_search_activity2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mobliceoa/!svn/ver/905/MobliceOA/res/layout/activity_search_activity2.xml
+END
+operation_process_detail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mobliceoa/!svn/ver/439/MobliceOA/res/layout/operation_process_detail.xml
+END
+activity_modify_password.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mobliceoa/!svn/ver/482/MobliceOA/res/layout/activity_modify_password.xml
+END
+loadpage_error.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mobliceoa/!svn/ver/2/MobliceOA/res/layout/loadpage_error.xml
+END
+pull_to_refresh_header2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mobliceoa/!svn/ver/289/MobliceOA/res/layout/pull_to_refresh_header2.xml
+END
+file_form_policy_details_one.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mobliceoa/!svn/ver/417/MobliceOA/res/layout/file_form_policy_details_one.xml
+END
+file_form_append.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mobliceoa/!svn/ver/670/MobliceOA/res/layout/file_form_append.xml
+END
+loadpage_empty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mobliceoa/!svn/ver/2/MobliceOA/res/layout/loadpage_empty.xml
+END
+loadpage_need_synchronize_data.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mobliceoa/!svn/ver/538/MobliceOA/res/layout/loadpage_need_synchronize_data.xml
+END
+pull_to_load_foote2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mobliceoa/!svn/ver/306/MobliceOA/res/layout/pull_to_load_foote2.xml
+END
+pull_to_load_footer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mobliceoa/!svn/ver/36/MobliceOA/res/layout/pull_to_load_footer.xml
+END
+policy_receive_yi_ban_loadingpager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mobliceoa/!svn/ver/279/MobliceOA/res/layout/policy_receive_yi_ban_loadingpager.xml
+END
+listview_item_operation_process.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mobliceoa/!svn/ver/444/MobliceOA/res/layout/listview_item_operation_process.xml
+END
+activity_add_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mobliceoa/!svn/ver/884/MobliceOA/res/layout/activity_add_file.xml
+END
+popup_mine_logout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mobliceoa/!svn/ver/624/MobliceOA/res/layout/popup_mine_logout.xml
+END
+down_loading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mobliceoa/!svn/ver/375/MobliceOA/res/layout/down_loading.xml
+END
+activity_splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mobliceoa/!svn/ver/515/MobliceOA/res/layout/activity_splash.xml
+END
+popup_file_tree_content.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mobliceoa/!svn/ver/886/MobliceOA/res/layout/popup_file_tree_content.xml
+END
+fragment_receive_notification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobliceoa/!svn/ver/278/MobliceOA/res/layout/fragment_receive_notification.xml
+END
+file_form_qing_shi_pi_ban_dan.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mobliceoa/!svn/ver/882/MobliceOA/res/layout/file_form_qing_shi_pi_ban_dan.xml
+END

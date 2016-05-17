@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mobliceoa/!svn/ver/858/MobliceOA/src/com/zhjy/iot/mobile/oa/manager
+END
+FileTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mobliceoa/!svn/ver/791/MobliceOA/src/com/zhjy/iot/mobile/oa/manager/FileTransactionManager.java
+END
+ThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mobliceoa/!svn/ver/3/MobliceOA/src/com/zhjy/iot/mobile/oa/manager/ThreadManager.java
+END
+ReceiveNotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/mobliceoa/!svn/ver/572/MobliceOA/src/com/zhjy/iot/mobile/oa/manager/ReceiveNotificationManager.java
+END
+PolicyPagerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mobliceoa/!svn/ver/858/MobliceOA/src/com/zhjy/iot/mobile/oa/manager/PolicyPagerManager.java
+END

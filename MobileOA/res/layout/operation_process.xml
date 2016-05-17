@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_title_height"
+        android:background="#4AADCA"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/back_activity"
+            android:layout_width="@dimen/back_btn_width"
+            android:layout_height="@dimen/back_btn_height"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/backbutton"
+            android:clickable="true"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:id="@+id/nevigaTitle"
+            style="@style/headtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="25dp"
+            android:gravity="center" />
+    </LinearLayout>
+    
+
+    <LinearLayout
+        android:id="@+id/look_handling_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btn" /> 
+
+</RelativeLayout>

@@ -1,0 +1,56 @@
+10
+
+dir
+905
+https://192.168.80.103/svn/mobliceoa/MobliceOA/bin/res
+https://192.168.80.103/svn/mobliceoa
+delete
+
+
+2016-03-17T08:09:44.999277Z
+2
+zhangyang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e38e04fd-ca49-024f-b205-af7619789152
+
+drawable-hdpi
+dir
+
+
+
+delete
+
+drawable-xxhdpi
+dir
+
+
+
+delete
+
+drawable-mdpi
+dir
+
+
+
+delete
+
+drawable-xhdpi
+dir
+
+
+
+delete
+

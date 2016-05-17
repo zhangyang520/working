@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll"
+    android:layout_width="@dimen/alert_width"
+    android:layout_height="@dimen/alert_height"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="自动登录中"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp" />
+
+</LinearLayout>

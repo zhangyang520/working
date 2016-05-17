@@ -1,0 +1,70 @@
+10
+
+dir
+905
+https://192.168.80.103/svn/mobliceoa/MobliceOA/res
+https://192.168.80.103/svn/mobliceoa
+
+
+
+2016-05-16T10:55:17.142346Z
+905
+zhangyang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e38e04fd-ca49-024f-b205-af7619789152
+
+values
+dir
+
+values-sw720dp-land
+dir
+
+values-sw600dp
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+drawable-hdpi
+dir
+
+anim
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+

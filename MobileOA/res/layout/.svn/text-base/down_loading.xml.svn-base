@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/alert_width"
+    android:layout_height="@dimen/alert_height"
+    android:orientation="horizontal"
+    android:id="@+id/ll"
+    android:layout_gravity="center"
+    android:gravity="center">
+    
+   <TextView 
+       android:id="@+id/tv"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="下载中"
+       android:textSize="18sp"
+       />
+   
+   <ImageView 
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:id="@+id/iv"
+       android:layout_marginLeft="10dp"
+       />
+</LinearLayout>

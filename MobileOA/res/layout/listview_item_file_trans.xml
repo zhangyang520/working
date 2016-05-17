@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:id="@+id/file_trans_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="5dp"
+        android:text="付饶"
+        android:textColor="@color/four_form_text_coloer"
+        android:textSize="19sp" />
+
+    <TextView
+        android:id="@+id/file_trans_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+        android:maxEms="18"
+        android:singleLine="true"
+        android:text="海淀国资国企动态（专刊）第7期"
+        android:textColor="#787878"
+        android:textSize="16sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp" >
+
+        <TextView
+            android:id="@+id/file_trans_yidu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="已读"
+            android:textColor="#C9A454" />
+
+        <Button
+            android:id="@+id/file_trans_button"
+            android:layout_width="90dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/file_trans_yidu"
+            android:background="@drawable/btn_four_form_selector_bg"
+            android:text="转为重要"
+            android:textColor="#121212"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:background="#4AADCA" />
+
+</LinearLayout>

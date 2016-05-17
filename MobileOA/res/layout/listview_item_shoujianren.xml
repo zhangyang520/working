@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/shoujianren_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:ellipsize="end"
+        android:maxEms="10"
+        android:singleLine="true"
+        android:text="付饶"
+        android:textColor="@color/four_form_text_coloer"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/shoudao_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/shoujianren_name"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="3dp"
+        android:ellipsize="end"
+        android:maxEms="10"
+        android:singleLine="true"
+        android:text="2016-03-31 10:17:56"
+        android:textColor="@color/four_form_text_coloer"
+        android:textSize="15sp" />
+
+    <View
+        android:layout_below="@id/shoudao_time"
+        android:layout_width="match_parent"
+        android:layout_height="0.7dp"
+        android:layout_marginTop="5dp"
+        android:background="#E1E1E1" />
+
+</RelativeLayout>

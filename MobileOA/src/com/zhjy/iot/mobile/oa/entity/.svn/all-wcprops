@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/mobliceoa/!svn/ver/870/MobliceOA/src/com/zhjy/iot/mobile/oa/entity
+END
+OperationProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mobliceoa/!svn/ver/782/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/OperationProcess.java
+END
+Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mobliceoa/!svn/ver/221/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/Operation.java
+END
+PolicyReceiveFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mobliceoa/!svn/ver/845/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/PolicyReceiveFile.java
+END
+UrlParamsEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mobliceoa/!svn/ver/857/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/UrlParamsEntity.java
+END
+FormType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mobliceoa/!svn/ver/680/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/FormType.java
+END
+LoginUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mobliceoa/!svn/ver/638/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/LoginUser.java
+END
+EntityBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mobliceoa/!svn/ver/59/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/EntityBase.java
+END
+FileTransactionDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/mobliceoa/!svn/ver/722/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/FileTransactionDetail.java
+END
+Opinion.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mobliceoa/!svn/ver/208/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/Opinion.java
+END
+MyNodeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mobliceoa/!svn/ver/423/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/MyNodeBean.java
+END
+OpinionIsWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mobliceoa/!svn/ver/750/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/OpinionIsWrite.java
+END
+SystemSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mobliceoa/!svn/ver/251/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/SystemSetting.java
+END
+ReceiveFileState.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mobliceoa/!svn/ver/471/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/ReceiveFileState.java
+END
+OpinionSeirer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mobliceoa/!svn/ver/684/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/OpinionSeirer.java
+END
+PolicyReceiveDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mobliceoa/!svn/ver/716/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/PolicyReceiveDetail.java
+END
+FileTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/mobliceoa/!svn/ver/841/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/FileTransaction.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mobliceoa/!svn/ver/870/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/Node.java
+END
+FileTransactionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mobliceoa/!svn/ver/471/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/FileTransactionState.java
+END
+ReceivePeople.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mobliceoa/!svn/ver/722/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/ReceivePeople.java
+END
+AppendDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mobliceoa/!svn/ver/490/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/AppendDoc.java
+END
+FilePopupData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mobliceoa/!svn/ver/367/MobliceOA/src/com/zhjy/iot/mobile/oa/entity/FilePopupData.java
+END

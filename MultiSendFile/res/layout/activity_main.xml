@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+         <Button
+            android:id="@+id/btn_select"
+	        android:layout_width="100dp"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/btn_shape_of_button_bg"
+	        android:text="选择文件" />
+         
+         <ListView 
+             android:id="@+id/lv_file"
+             android:layout_toRightOf="@id/btn_select"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:divider="@null"
+             android:cacheColorHint="@null"
+             ></ListView>
+    </RelativeLayout>
+   
+    <Button android:id="@+id/btn_send"
+        	android:layout_marginTop="50dp"
+        	android:layout_width="100dp"
+        	android:layout_height="wrap_content"
+        	android:background="@drawable/btn_shape_of_button_bg"
+        	android:text="发送文件"/>
+</LinearLayout>
